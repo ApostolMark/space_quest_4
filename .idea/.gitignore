@@ -10,3 +10,13 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# --- PyCharm / JetBrains ---
+.idea/
+*.iml
+*.iws
+out/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
